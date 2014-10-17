@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wca:home|Door43 (wca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wca|d43-wca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wca/archive/master.zip|d43-wca.zip]]
+
+**Recent Changes**
+{{changes>ns = wca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wca|Ethnologue data]]
+
